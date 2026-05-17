@@ -1,4 +1,4 @@
-# Hii , I'm Yashika 💋
+# Hii , I'm Yashika ✨
 
 <br>💻Full stack web developer</br>
 <br>🪄Learning AI</br>
