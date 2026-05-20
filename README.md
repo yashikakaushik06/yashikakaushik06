@@ -1,7 +1,7 @@
 # Hii , I'm Yashika ✨
 
 <br>Full stack web developer</br>
-<br>🪄Learning AI</br>
+<br>Learning AI</br>
 <br>🎀ECE student diving into software world<br>
 
 
