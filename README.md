@@ -1,10 +1,5 @@
 # Hii , I'm Yashika ✨
 
-<br>Full stack web developer</br>
-<br>Learning AI</br>
-<br>ECE student diving into software world<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yashika_kaushik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashika-kaushik-) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kaushikyashika748) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:k13yashika@gmail.com) 
 
