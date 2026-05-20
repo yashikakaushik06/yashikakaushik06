@@ -2,7 +2,7 @@
 
 <br>Full stack web developer</br>
 <br>Learning AI</br>
-<br>🎀ECE student diving into software world<br>
+<br>ECE student diving into software world<br>
 
 
 ## 🌐 Socials:
